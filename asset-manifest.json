@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://braian85.github.io/csb-tm32s/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://braian85.github.io/csb-tm32s/static/js/main.c1bd34c9.chunk.js",
+    "main.js.map": "https://braian85.github.io/csb-tm32s/static/js/main.c1bd34c9.chunk.js.map",
+    "runtime-main.js": "https://braian85.github.io/csb-tm32s/static/js/runtime-main.fd814ad3.js",
+    "runtime-main.js.map": "https://braian85.github.io/csb-tm32s/static/js/runtime-main.fd814ad3.js.map",
+    "static/js/2.a4ba2aed.chunk.js": "https://braian85.github.io/csb-tm32s/static/js/2.a4ba2aed.chunk.js",
+    "static/js/2.a4ba2aed.chunk.js.map": "https://braian85.github.io/csb-tm32s/static/js/2.a4ba2aed.chunk.js.map",
+    "index.html": "https://braian85.github.io/csb-tm32s/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://braian85.github.io/csb-tm32s/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a4ba2aed.chunk.js.LICENSE.txt": "https://braian85.github.io/csb-tm32s/static/js/2.a4ba2aed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd814ad3.js",
+    "static/js/2.a4ba2aed.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c1bd34c9.chunk.js"
+  ]
+}
